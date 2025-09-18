@@ -1,8 +1,8 @@
 <p align="center">
-  Convert YouTube audiobooks to chapterized M4B files with metadata preservation. This script downloads audio from YouTube videos, extracts chapter information, and converts to AAC format in a single command.
   <br><br><a href="https://github.com/drewmarsh/youtube-to-m4b">
     <img src="youtube_to_m4b_banner.png" width="500" alt="Banner">
   </a>
+  <br><br>Convert YouTube content to chapterized .M4B files with metadata preservation and customize the output file quality, requires yt-dlp and ffmpeg<br><br>
 </p>
 
 ## Features
