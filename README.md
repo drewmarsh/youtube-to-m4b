@@ -2,7 +2,7 @@
   <a href="https://github.com/drewmarsh/youtube-to-m4b">
     <img src="youtube_to_m4b_banner.png" width="500" alt="Banner">
   </a>
-  <br><br>Convert YouTube content to chapterized .M4B files with metadata preservation and customize the output file quality, requires yt-dlp and ffmpeg<br><br>
+  <br><br>Convert YouTube content to chapterized .M4B audiobook files with metadata preservation and customize the output file quality, requires yt-dlp and ffmpeg<br><br>
 </p>
 
 ## Features
